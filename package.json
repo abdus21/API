@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "This is a reast  API for react Developer ",
+  "main": "index.js",
+  "scripts": {
+    "js": "json-server --watch db.json --port 5050"
+  },
+  "author": "samad21",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}

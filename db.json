@@ -1,0 +1,229 @@
+{
+  "deves": [
+    {
+      "id": 1,
+      "name": "Abdus Samad",
+      "skillId": 1,
+      "location": "Noakhali",
+      "selari": 80000,
+      "photo": "https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/133291252_1775437672622699_196678588946591649_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHSpyLJBER6qINTZ9O7i5Ou8iaOBoUGQvbyJo4GhQZC9pcEe5jFysnr8BvUKIwcagtqOt2EUGFf8TloVfqeKTfS&_nc_ohc=P-k_Hejatw8AX-Mphg0&_nc_ht=scontent.fdac68-1.fna&oh=00_AT9cdOQtYXdYlWEhCMpMMufh4ZDwOaymBdibBt77ipChYA&oe=623259BD"
+    },
+    {
+      "id": 3,
+      "name": "Abdul Ahad",
+      "skillId": 2,
+      "location": "lalbag",
+      "selari": 90000,
+      "photo": "https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/157307348_3723616191067679_7814967810551711051_n.jpg?_nc_cat=103&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeGNMPoJirUOWTyfZoUMkJwAXZc_Yyr3O71dlz9jKvc7vWEgt_FKOc3Vn_Q-LwGNlZHEuoNauackzv6QeaZ3h8d2&_nc_ohc=y9LIRUf_2cYAX-PgMJ_&_nc_ht=scontent.fdac68-1.fna&oh=00_AT-932uUn-FYmwmwDaGLDpHVKFWZjCgguxdzI66onFCQ9w&oe=6232AA25"
+    },
+    {
+      "id": 4,
+      "name": "jillur rahman",
+      "skillId": 3,
+      "location": "Dinajpur",
+      "selari": 50000,
+      "photo": "https://scontent.fdac68-1.fna.fbcdn.net/v/t1.6435-9/81506312_1743649589093730_6312903902740086784_n.jpg?_nc_cat=110&ccb=1-5&_nc_sid=174925&_nc_eui2=AeERntzYt6rwH7PcCk-03pC_V1Fr5x5K3RRXUWvnHkrdFIcXgW2vh8ljbueLBH-mbVOaxFdV5hKgiS8sxlFezQUV&_nc_ohc=0ae8UgqDWLgAX-6IYIg&_nc_ht=scontent.fdac68-1.fna&oh=00_AT8mltRZT7SftY7prKVP8oYBiZi2j3IuI82yWXVCy4UkrA&oe=62348BA9"
+    },
+    {
+      "id": 5,
+      "name": "zonayd",
+      "skillId": 4,
+      "location": "Dhaka",
+      "selari": 100000,
+      "photo": "https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/271709276_700456181364022_5440642696709932769_n.jpg?_nc_cat=104&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeFBQ02SzM5Vk-gebYzI4NFYooGhKPeopyaigaEo96inJpTTjY7PSMFozlTNk8JmLG6KhxSpJGeZlsyHV3RcYkvi&_nc_ohc=KIC_5N_ohwEAX-0u2yG&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&oh=00_AT9GXx_wzDbB4a3S63BfIFIffv0IabHvz3wzP7vmAYioYA&oe=6212DC0A"
+    },
+    {
+      "id": 6,
+      "name": "Ashraful haq",
+      "skillId": 5,
+      "location": "uttora",
+      "selari": 110000,
+      "photo": "https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHaT3cUu8S7C9KIvu9ytcQdbVX3-HfzPKZtVff4d_M8pgxK9BCvw6tXV5kjwlZfXyW3uobHfo3BhmwmjLzfSJnu&_nc_ohc=ddIW2MdsPkQAX-_uaz3&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&oh=00_AT8Y92_Oa9KC6RzP5AlZUjHm2r3wN830v8ApvQEFMYFGEA&oe=62128E14"
+    },
+    {
+      "id": 7,
+      "name": "sayed haq",
+      "skillId": 6,
+      "location": "uttora",
+      "selari": 110000,
+      "photo": "https://scontent.fdac68-1.fna.fbcdn.net/v/t39.30808-6/271547251_10221668395318941_1938174359673295619_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeHaT3cUu8S7C9KIvu9ytcQdbVX3-HfzPKZtVff4d_M8pgxK9BCvw6tXV5kjwlZfXyW3uobHfo3BhmwmjLzfSJnu&_nc_ohc=ddIW2MdsPkQAX-_uaz3&_nc_zt=23&_nc_ht=scontent.fdac68-1.fna&oh=00_AT8Y92_Oa9KC6RzP5AlZUjHm2r3wN830v8ApvQEFMYFGEA&oe=62128E14"
+    }
+  ],
+
+  "skill"  : [
+    {
+      "id"   : 1,
+      "name" : "wp Developer"
+    },
+    {
+      "id"   : 2,
+      "name" : "Laravel"
+    },
+    {
+      "id"   : 3,
+      "name" : "node.js"
+    },
+    {
+      "id"   : 4,
+      "name" : "Wordpress"
+    },
+    {
+      "id"   : 5,
+      "name" : "Django"
+    },
+    {
+      "id"   : 6,
+      "name" : "React"
+    }
+  ],
+  "product": [
+    {
+      "id": 1,
+      "name": "T-shirt",
+      "photo": "https://static-01.daraz.com.bd/p/8eb1bfdb1d55f645f4463c7927caa923.jpg",
+      "descroption": "Printed Cotton T Shirt For Man"
+    },
+    {
+      "id": 2,
+      "name": "Sweaters",
+      "photo": "https://static-01.daraz.com.bd/p/mdc/e1e8b4f02d53c8014eba08dff810c198.jpg",
+      "descroption": "Premium Quality Green Color Cotton Full Sleeve Sweater for Men"
+    },
+    {
+      "id": 3,
+      "name": "shirts",
+      "photo": "https://static-01.daraz.com.bd/p/0f0ab73477e71768956080b8af3b49ef.jpg",
+      "descroption": "JENTS CHOICE SMART LOOKING FULL SLEEVE COTTON FORMAL"
+    },
+    {
+      "id": 4,
+      "name": "polo shirt",
+      "photo": "https://static-01.daraz.com.bd/p/779ac7f35c555cb96f39d40c3faa4e88.jpg",
+      "descroption": "Pest Half Sleeve Polo shirt For Men"
+    },
+    {
+      "id": 5,
+      "name": "Jeans",
+      "photo": "https://static-01.daraz.com.bd/p/dfe6b22b5bfefc792f347569baa2ecb2.jpg",
+      "descroption": "Smart Stylish Slim Fit Denim Jeans Pant For Men"
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "name": "Electronic Devices"
+    },
+    {
+      "id": 2,
+      "name": "Electronic Accessories"
+    },
+    {
+      "id": 3,
+      "name": "TV & Home Appliances"
+    },
+    {
+      "id": 4,
+      "name": "Health & Beauty"
+    },
+    {
+      "id": 5,
+      "name": "Babies & Toys"
+    },
+    {
+      "id": 5,
+      "name": "Groceries & Pets"
+    },
+    {
+      "id": 5,
+      "name": "Home & Lifestyle"
+    }
+  ],
+  "Brand": [
+    {
+      "id": 1,
+      "name": "realme"
+    },
+    {
+      "id": 2,
+      "name": "Xiaomi"
+    },
+    {
+      "id": 3,
+      "name": "OPPO"
+    },
+    {
+      "id": 4,
+      "name": "Vivo"
+    },
+    {
+      "id": 5,
+      "name": "Infinix"
+    },
+    {
+      "id": 6,
+      "name": "Motorola"
+    }
+  ],
+  "student": [
+    {
+      "id": 1,
+      "name": "Ashraful haq",
+      "Roll": 3,
+      "class": 10,
+      "photo": "https://img.freepik.com/free-photo/close-up-confident-male-employee-white-collar-shirt-smiling-camera-standing-self-assured-against-studio-background_1258-26761.jpg?size=626&ext=jpg",
+      "bangla": 32,
+      "english": 59,
+      "math": 48,
+      "science": 91,
+      "religion": 40
+    },
+    {
+      "id": 2,
+      "name": "Tanvir",
+      "Roll": 9,
+      "class": 10,
+      "photo": "https://cdn.pixabay.com/photo/2020/06/15/15/16/male-5302245_1280.jpg",
+      "bangla": 44,
+      "english": 55,
+      "math": 66,
+      "science": 77,
+      "religion": 88
+    },
+    {
+      "id": 3,
+      "name": "ismail",
+      "Roll": 7,
+      "class": 10,
+      "photo": "https://images.pexels.com/photos/2379005/pexels-photo-2379005.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
+      "bangla": 47,
+      "english": 75,
+      "math": 96,
+      "science": 37,
+      "religion": 68
+    },
+    {
+      "id": 4,
+      "name": "Raju",
+      "Roll": 5,
+      "class": 10,
+      "photo": "https://st.depositphotos.com/2309453/3449/i/600/depositphotos_34490345-stock-photo-confident-casual-unshaven-young-man.jpg",
+      "bangla": 34,
+      "english": 64,
+      "math": 59,
+      "science": 49,
+      "religion": 88
+    },
+    {
+      "id": 5,
+      "name": "sajid",
+      "Roll": 2,
+      "class": 10,
+      "photo": "https://us.123rf.com/450wm/marctran/marctran1903/marctran190300253/122835357-asian-handsome-man-smiling-and-laughing-isolated-on-white-background-soft-focus.jpg?ver=6",
+      "bangla": 77,
+      "english": 35,
+      "math": 16,
+      "science": 59,
+      "religion": 97
+    }
+  ]
+}
